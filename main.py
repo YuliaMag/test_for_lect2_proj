@@ -1,3 +1,7 @@
 
-# test
-print("Hello, World!")
+def nl():
+    print('\n')
+
+
+
+
